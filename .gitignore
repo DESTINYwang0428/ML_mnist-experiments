@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Mac
+.DS_Store
+
+# 数据文件
+/data/
+*.pth
+*.pt
+*.h5
+*.hdf5
+
+# 日志
+*.log
+logs/
